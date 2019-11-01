@@ -1,6 +1,6 @@
 ---
 aliases: python3, python2, python-3, python-2, python27, python-3-6, python-3-5, py
-created_by: Guido van Rossum
+created_by: Guido van Rossul
 display_name: Python
 github_url: https://github.com/python
 logo: python.png
